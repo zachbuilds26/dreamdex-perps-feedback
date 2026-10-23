@@ -40,4 +40,4 @@ variable for the few scripts that sign test transactions — no keys are committ
 
 ## Repo
 
-GitHub link: _(fill in after publishing)_
+https://github.com/zachbuilds26/dreamdex-perps-feedback
