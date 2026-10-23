@@ -1,0 +1,19 @@
+{
+  "name": "dreamdex-perps-feedback",
+  "version": "1.0.0",
+  "description": "dreamDEX Perps Builder Bounty (Feedback track) — 6 reproducible findings against Somnia Tokyo testnet, with reproducer scripts",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@somnia-chain/markets-sdk": "^0.32.1",
+    "bs58": "^6.0.0",
+    "ethers": "^6.17.0",
+    "viem": "^2.57.10"
+  }
+}
